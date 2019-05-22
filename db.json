@@ -36,15 +36,6 @@
     "trackingNumber": "129304849"
   },
   {
-    "orderId": "7647",
-    "userName": "Luci",
-    "orderDate": "May 19, 2019",
-    "amount": "60",
-    "status": "shipped",
-    "statusBadge": "badge-primary",
-    "trackingNumber": ""
-  },
-  {
     "orderId": "3547",
     "userName": "Mathew",
     "orderDate": "Feb 11, 2016",
