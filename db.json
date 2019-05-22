@@ -27,15 +27,6 @@
     "trackingNumber": "234567781"
   },
   {
-    "orderId": "1234",
-    "userName": "Livingston",
-    "orderDate": "Jan 22, 2008",
-    "amount": "231",
-    "status": "paid",
-    "statusBadge": "badge-success",
-    "trackingNumber": "129304849"
-  },
-  {
     "orderId": "3547",
     "userName": "Mathew",
     "orderDate": "Feb 11, 2016",
